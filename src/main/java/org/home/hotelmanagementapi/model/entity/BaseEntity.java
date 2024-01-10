@@ -1,4 +1,4 @@
-package com.hotelmanagement.demo.model.entity;
+package org.home.hotelmanagementapi.model.entity;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

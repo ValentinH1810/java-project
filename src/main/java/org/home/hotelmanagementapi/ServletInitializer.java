@@ -1,4 +1,4 @@
-package com.hotelmanagement.demo;
+package org.home.hotelmanagementapi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
